@@ -154,7 +154,7 @@ export default function components() {
                     </form>
                 </div>
                 <p className="tip mt-4">本服务不会收集、存储或使用任何与图片相关的个人信息</p>
-                <footer className="flex justify-center items-center">
+                {/* <footer className="flex justify-center items-center">
                     &copy; 2024
                     {'-'}
                     <a href="https://jingle.bio/liuziting/" target="_blank" rel="noopener noreferrer">
@@ -162,12 +162,12 @@ export default function components() {
                         liuziting
                     </a>
                     . All rights reserved.
-                </footer>
-                <p>
+                </footer> */}
+                {/* <p>
                     <a href="https://gemini.smartai.wtf/">GeminiChat</a> |
                     <a href="https://tools.smartai.wtf/"> SmartAI</a> |
                     <a href="https://babythoughts.netlify.app/"> BabyThoughts</a>
-                </p>
+                </p> */}
             </main>
         </div>
     )
